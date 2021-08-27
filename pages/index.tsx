@@ -24,6 +24,12 @@ export default function Home({
                 <p>
                     Hello, I'm <strong>Nicolas</strong>. I'm a web developer.
                 </p>
+                <p>{' '}
+                    <a href="https://www.linkedin.com/in/nicolas-villetelle/">LinkedIn</a>
+                </p>
+                <p>{' '}
+                    <a href="https://github.com/Munegu">Github</a>
+                </p>
                 <p>
                     (This is a sample website - you’ll be building a site like this in{' '}
                     <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
